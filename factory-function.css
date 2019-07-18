@@ -1,0 +1,27 @@
+.contact {
+    justify-content: space-evenly;
+    border: 1px solid goldenrod;
+    float: left;
+    width: 25%;
+    padding: 30px 30px 30px 30px;
+    background-color: aqua; 
+  }
+
+
+#contactList {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+ }
+
+ .contactName {
+     font-size: 2px;
+ }
+
+.contactTitle {
+    font-size: 1.5px;
+}
+
+.contactemail {
+    font-size: 1px;
+}
